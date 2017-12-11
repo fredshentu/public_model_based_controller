@@ -1,0 +1,2 @@
+%  columns="iteration, evaluation, sigma, max axis length,  min axis length, all principle axes lengths  (sorted square roots of eigenvalues of C)", seed=282911, Wed Apr 26 03:14:22 2017
+0 0 0.5 1.00004612027 1.00000086791 1.00001931244 1.00003866812 1.00002523837 1.00000713781 1.00000086791 1.00000381084 1.00000913257 1.00002474454 1.00004612027

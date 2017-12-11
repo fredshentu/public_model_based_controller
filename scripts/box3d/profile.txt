@@ -1,0 +1,436 @@
+[32musing seed 0[0m
+2017-07-02 15:00:46.892576 PDT | Setting seed to 0
+2017-07-02 15:00:46.892592 PDT | Setting seed to 2
+2017-07-02 15:00:46.892600 PDT | Setting seed to 1
+2017-07-02 15:00:46.892615 PDT | Setting seed to 3
+2017-07-02 15:00:46.892620 PDT | Setting seed to 4
+2017-07-02 15:00:46.893122 PDT | Setting seed to 5
+2017-07-02 15:00:46.893137 PDT | Setting seed to 6
+2017-07-02 15:00:46.893190 PDT | Setting seed to 9
+2017-07-02 15:00:46.893163 PDT | Setting seed to 7
+2017-07-02 15:00:46.893175 PDT | Setting seed to 8
+2017-07-02 15:00:46.893571 PDT | Setting seed to 10
+2017-07-02 15:00:46.893587 PDT | Setting seed to 11
+2017-07-02 15:00:47.677659 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] observation space: Box(84, 84, 8)
+2017-07-02 15:00:47.677878 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] action space: Box(4,)
+2017-07-02 15:00:48.826710 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] Populating workers...
+[32musing seed 1[0m
+2017-07-02 15:00:49.473800 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.474648 PDT | action space: Box(4,)
+[32musing seed 4[0m
+2017-07-02 15:00:49.510902 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.512255 PDT | action space: Box(4,)
+[32musing seed 8[0m
+2017-07-02 15:00:49.560549 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.560783 PDT | action space: Box(4,)
+[32musing seed 11[0m
+2017-07-02 15:00:49.590730 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.590974 PDT | action space: Box(4,)
+[32musing seed 2[0m
+2017-07-02 15:00:49.596438 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.596685 PDT | action space: Box(4,)
+[32musing seed 6[0m
+2017-07-02 15:00:49.657402 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.657663 PDT | action space: Box(4,)
+[32musing seed 10[0m
+2017-07-02 15:00:49.698980 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.699247 PDT | action space: Box(4,)
+[32musing seed 3[0m
+2017-07-02 15:00:49.747533 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.747786 PDT | action space: Box(4,)
+[32musing seed 9[0m
+2017-07-02 15:00:49.830991 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.831258 PDT | action space: Box(4,)
+[32musing seed 7[0m
+2017-07-02 15:00:49.835346 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.835606 PDT | action space: Box(4,)
+[32musing seed 5[0m
+2017-07-02 15:00:49.913518 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.913785 PDT | action space: Box(4,)
+[32musing seed 0[0m
+2017-07-02 15:00:49.928731 PDT | observation space: Box(84, 84, 8)
+2017-07-02 15:00:49.928995 PDT | action space: Box(4,)
+2017-07-02 15:00:50.196690 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] Populated
+2017-07-02 15:00:50.227854 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | Obtaining samples...
+Warning: No valid output stream.
+2017-07-02 15:01:40.291600 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | Processing samples...
+2017-07-02 15:01:42.754324 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | fitting baseline...
+2017-07-02 15:02:00.762970 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | fitted
+2017-07-02 15:02:00.763369 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | Logging diagnostics...
+2017-07-02 15:02:00.763954 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | Last baseline loss: 11.206686973571777
+2017-07-02 15:02:00.764069 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | Optimizing policy...
+2017-07-02 15:02:00.764201 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | Computing loss before
+2017-07-02 15:02:02.216925 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | Computing KL before
+2017-07-02 15:02:03.662563 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | Optimizing
+2017-07-02 15:02:03.664766 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | Start CG optimization: #parameters: 164908, #inputs: 12200, #subsample_inputs: 12200
+2017-07-02 15:02:03.664938 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | computing loss before
+2017-07-02 15:02:05.072865 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | performing update
+2017-07-02 15:02:05.073050 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | computing gradient
+2017-07-02 15:02:06.966678 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | gradient computed
+2017-07-02 15:02:06.966846 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001] itr #0 | computing descent direction
+python /home/fred/rllab/scripts/run_experiment_lite.py  --snapshot_gap '100'  --seed '0'  --log_dir '/home/fred/rllab/data/local/trpo-box3d-pixel-v11-tf-test/trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001'  --n_parallel '12'  --snapshot_mode 'gap'  --exp_name 'trpo_box3d_pixel_v11_tf_test_2017_07_02_15_00_45_0001'  --args_data 'gANjcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJNZXRob2RDYWxsCnEAKYFxAX1xAihYBgAAAF9fYXJnc3EDKGNybGxhYi5taXNjLmluc3RydW1lbnQKU3R1Yk9iamVjdApxBCmBcQV9cQYoWAYAAABrd2FyZ3NxB31xCChYDgAAAG9wdGltaXplcl9hcmdzcQl9cQpYCgAAAG51bV9zbGljZXNxC0sUc1gJAAAAc3RlcF9zaXplcQxHP4R64UeuFHtYAwAAAGVudnENaAQpgXEOfXEPKGgHfXEQWAsAAAB3cmFwcGVkX2VudnERaAQpgXESfXETKGgHfXEUaA1oBCmBcRV9cRYoaAd9cRcoWAgAAABlbnZfbmFtZXEYWBMAAABCb3gzZFJlYWNoUGl4ZWwtdjExcRlYDAAAAHJlY29yZF92aWRlb3EaiVgHAAAAbG9nX2RpcnEbWA0AAAAvdG1wL2d5bV90ZXN0cRxYCgAAAHJlY29yZF9sb2dxHYl1WAQAAABhcmdzcR4pWAsAAABwcm94eV9jbGFzc3EfY3JsbGFiLmVudnMuZ3ltX2VudgpHeW1FbnYKcSB1YnNoHiloH2NybGxhYi5lbnZzLm5vcm1hbGl6ZWRfZW52Ck5vcm1hbGl6ZWRFbnYKcSF1YnNoHiloH2NzYW5kYm94LnJvY2t5LnRmLmVudnMuYmFzZQpUZkVudgpxInViWAsAAAB3aG9sZV9wYXRoc3EjiFgFAAAAbl9pdHJxJEsBWAgAAABiYXNlbGluZXElaAQpgXEmfXEnKGgHfXEoKFgMAAAAaGlkZGVuX3NpemVzcSlLgEuAS0CHcSpYBwAAAGluaXRfbHJxK0c/QGJN0vGp/FgVAAAAdHJhaW5fZmVhdHVyZV9uZXR3b3JrcSyIWAgAAABlbnZfc3BlY3EtY3JsbGFiLm1pc2MuaW5zdHJ1bWVudApTdHViQXR0cgpxLimBcS99cTAoWAoAAABfYXR0cl9uYW1lcTFYBAAAAHNwZWNxMlgEAAAAX29ianEzaA51YlgTAAAAaGlkZGVuX25vbmxpbmVhcml0eXE0Y3RlbnNvcmZsb3cucHl0aG9uLm9wcy5nZW5fbm5fb3BzCnJlbHUKcTVoJEsyWA8AAABmZWF0dXJlX25ldHdvcmtxNmgEKYFxN31xOChoB31xOShoKU0AAYVxOlgMAAAAY29udl9maWx0ZXJzcTsoS0BLQEtASyB0cTxYCwAAAGlucHV0X3NoYXBlcT1oLimBcT59cT8oaDFYBQAAAHNoYXBlcUBoM2guKYFxQX1xQihoMVgRAAAAb2JzZXJ2YXRpb25fc3BhY2VxQ2gzaC91YnViaDRoNVgJAAAAY29udl9wYWRzcUQoWAQAAABTQU1FcUVoRWhFaEV0cUZYDAAAAGNvbnZfc3RyaWRlc3FHKEsDSwNLA0sCdHFIWAQAAABuYW1lcUlYFQAAAGJhc2VsaW5lX2NvbnZfbmV0d29ya3FKWAoAAABvdXRwdXRfZGltcUtoLimBcUx9cU0oaDFYCAAAAGZsYXRfZGltcU5oM2guKYFxT31xUChoMVgMAAAAYWN0aW9uX3NwYWNlcVFoM2gvdWJ1YlgTAAAAb3V0cHV0X25vbmxpbmVhcml0eXFSTlgRAAAAY29udl9maWx0ZXJfc2l6ZXNxUyhLBUsFhnFUSwNLA4ZxVUsDSwOGcVZLA0sDhnFXdHFYdWgeKWgfY3NhbmRib3gucm9ja3kudGYuY29yZS5uZXR3b3JrCkNvbnZOZXR3b3JrCnFZdWJ1aB4paB9jc2FuZGJveC5yb2NreS50Zi5iYXNlbGluZXMubm5fYmFzZWxpbmUKTk5CYXNlbGluZQpxWnViWAYAAABwb2xpY3lxW2gEKYFxXH1xXShoB31xXihoKUuAS4BLQIdxX2hJWBMAAABjb252X2ZlYXR1cmVfcG9saWN5cWBoNmgEKYFxYX1xYihoB31xYyhoKU0AAYVxZGg7KEtAS0BLQEsgdHFlaD1oLimBcWZ9cWcoaDFoQGgzaC4pgXFofXFpKGgxaENoM2gvdWJ1Ymg0aDVoRChoRWhFaEVoRXRxamhHKEsDSwNLA0sCdHFraElYEwAAAHBvbGljeV9jb252X25ldHdvcmtxbGhLaC4pgXFtfXFuKGgxaE5oM2guKYFxb31xcChoMWhRaDNoL3VidWJoUk5oUyhLBUsFhnFxSwNLA4ZxcksDSwOGcXNLA0sDhnF0dHF1dWgeKWgfaFl1YmgtaC9oUmN0ZW5zb3JmbG93LnB5dGhvbi5vcHMubWF0aF9vcHMKdGFuaApxdnVoHiloH2NzYW5kYm94LnJvY2t5LnRmLnBvbGljaWVzLmdhdXNzaWFuX2NvbnZfZmVhdHVyZV9wb2xpY3kKR2F1c3NpYW5Db252RmVhdHVyZVBvbGljeQpxd3ViWAsAAABzYW1wbGVyX2Nsc3F4Y3JsbGFiLm1pc2MuaW5zdHJ1bWVudApTdHViQ2xhc3MKcXkpgXF6fXF7aB9jc2FuZGJveC5yb2NreS50Zi5zYW1wbGVycy5iYXRjaF9zYW1wbGVyCkJhdGNoU2FtcGxlcgpxfHNiWA8AAABtYXhfcGF0aF9sZW5ndGhxfU3oA1gQAAAAc3Vic2FtcGxlX2ZhY3RvcnF+Rz/wAAAAAAAAWAoAAABiYXRjaF9zaXplcX9NECd1aB4paB9jc2FuZGJveC5yb2NreS50Zi5hbGdvcy50cnBvClRSUE8KcYB1YlgFAAAAdHJhaW5xgSl9cYJ0cYNYCAAAAF9fa3dhcmdzcYR9cYV1Yi4='  --use_cloudpickle 'False'
+[32musing seed 0[0m
+2017-07-03 01:29:06.919815 PDT | Setting seed to 2
+2017-07-03 01:29:06.919804 PDT | Setting seed to 1
+2017-07-03 01:29:06.919790 PDT | Setting seed to 0
+2017-07-03 01:29:06.919841 PDT | Setting seed to 3
+2017-07-03 01:29:06.920333 PDT | Setting seed to 4
+2017-07-03 01:29:06.920343 PDT | Setting seed to 5
+2017-07-03 01:29:06.920432 PDT | Setting seed to 10
+2017-07-03 01:29:06.920375 PDT | Setting seed to 7
+2017-07-03 01:29:06.920365 PDT | Setting seed to 6
+2017-07-03 01:29:06.920397 PDT | Setting seed to 8
+2017-07-03 01:29:06.920407 PDT | Setting seed to 9
+2017-07-03 01:29:06.920858 PDT | Setting seed to 11
+2017-07-03 01:29:07.709821 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] observation space: Box(84, 84, 8)
+2017-07-03 01:29:07.710003 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] action space: Box(4,)
+2017-07-03 01:29:08.849340 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] Populating workers...
+[32musing seed 8[0m
+2017-07-03 01:29:09.414948 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.415148 PDT | action space: Box(4,)
+[32musing seed 0[0m
+2017-07-03 01:29:09.586996 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.587274 PDT | action space: Box(4,)
+[32musing seed 4[0m
+2017-07-03 01:29:09.616159 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.616433 PDT | action space: Box(4,)
+[32musing seed 6[0m
+2017-07-03 01:29:09.711412 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.711650 PDT | action space: Box(4,)
+[32musing seed 3[0m
+2017-07-03 01:29:09.716812 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.717062 PDT | action space: Box(4,)
+[32musing seed 5[0m
+2017-07-03 01:29:09.735670 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.735934 PDT | action space: Box(4,)
+[32musing seed 10[0m
+2017-07-03 01:29:09.752075 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.752342 PDT | action space: Box(4,)
+[32musing seed 11[0m
+2017-07-03 01:29:09.755351 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.755612 PDT | action space: Box(4,)
+[32musing seed 2[0m
+2017-07-03 01:29:09.806045 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.806299 PDT | action space: Box(4,)
+[32musing seed 1[0m
+2017-07-03 01:29:09.825022 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.825287 PDT | action space: Box(4,)
+[32musing seed 7[0m
+2017-07-03 01:29:09.878114 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.878379 PDT | action space: Box(4,)
+[32musing seed 9[0m
+2017-07-03 01:29:09.880071 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:29:09.880324 PDT | action space: Box(4,)
+2017-07-03 01:29:10.211315 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] Populated
+2017-07-03 01:29:10.241615 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Obtaining samples...
+Warning: No valid output stream.
+2017-07-03 01:30:00.406965 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Processing samples...
+2017-07-03 01:30:02.832649 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | fitting baseline...
+2017-07-03 01:30:21.693124 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | fitted
+2017-07-03 01:30:21.693525 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Logging diagnostics...
+2017-07-03 01:30:21.694081 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Last baseline loss: 10.313529014587402
+2017-07-03 01:30:21.694187 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Optimizing policy...
+2017-07-03 01:30:21.694317 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Computing loss before
+2017-07-03 01:30:23.126900 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Computing KL before
+2017-07-03 01:30:24.543177 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Optimizing
+2017-07-03 01:30:24.545082 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Start CG optimization: #parameters: 164908, #inputs: 12200, #subsample_inputs: 12200
+2017-07-03 01:30:24.545232 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | computing loss before
+2017-07-03 01:30:25.944755 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | performing update
+2017-07-03 01:30:25.944937 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | computing gradient
+2017-07-03 01:30:27.829352 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | gradient computed
+2017-07-03 01:30:27.829514 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | computing descent direction
+Timer unit: 1e-06 s
+
+Total time: 28.7027 s
+File: /home/fred/rllab/rllab/misc/krylov.py
+Function: cg at line 23
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+    23                                           @do_profile(follow=[])
+    24                                           def cg(f_Ax, b, cg_iters=10, callback=None, verbose=False, residual_tol=1e-10):
+    25                                               """
+    26                                               Demmel p 312
+    27                                               """
+    28         1           43     43.0      0.0      p = b.copy()
+    29         1           36     36.0      0.0      r = b.copy()
+    30         1           53     53.0      0.0      x = np.zeros_like(b)
+    31         1           38     38.0      0.0      rdotr = r.dot(r)
+    32                                           
+    33         1            1      1.0      0.0      fmtstr = "%10i %10.3g %10.3g"
+    34         1            1      1.0      0.0      titlestr = "%10s %10s %10s"
+    35         1            0      0.0      0.0      if verbose: print(titlestr % ("iter", "residual norm", "soln norm"))
+    36                                           
+    37        11            9      0.8      0.0      for i in range(cg_iters):
+    38        10            4      0.4      0.0          if callback is not None:
+    39                                                       callback(x)
+    40        10            4      0.4      0.0          if verbose: print(fmtstr % (i, rdotr, np.linalg.norm(x)))
+    41        10     28698919 2869891.9    100.0          z = f_Ax(p)
+    42        10          402     40.2      0.0          v = rdotr / p.dot(z)
+    43        10         1157    115.7      0.0          x += v * p
+    44        10          883     88.3      0.0          r -= v * z
+    45        10          287     28.7      0.0          newrdotr = r.dot(r)
+    46        10            9      0.9      0.0          mu = newrdotr / rdotr
+    47        10          737     73.7      0.0          p = r + mu * p
+    48                                           
+    49        10            9      0.9      0.0          rdotr = newrdotr
+    50        10           61      6.1      0.0          if rdotr < residual_tol:
+    51                                                       break
+    52                                           
+    53         1            1      1.0      0.0      if callback is not None:
+    54                                                   callback(x)
+    55         1            0      0.0      0.0      if verbose: print(fmtstr % (i + 1, rdotr, np.linalg.norm(x)))  # pylint: disable=W0631
+    56         1            1      1.0      0.0      return x
+
+2017-07-03 01:30:59.290789 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | descent direction computed
+2017-07-03 01:31:03.656080 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | backtrack iters: 2
+2017-07-03 01:31:03.656311 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | computing loss after
+2017-07-03 01:31:03.656468 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | optimization finished
+2017-07-03 01:31:03.656623 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Computing KL after
+2017-07-03 01:31:05.070410 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Computing loss after
+2017-07-03 01:31:06.504735 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Saving snapshot...
+2017-07-03 01:31:06.565025 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001] itr #0 | Saved
+2017-07-03 01:31:06.566122 PDT | -----------------------  -------------
+2017-07-03 01:31:06.566267 PDT | Iteration                  0
+2017-07-03 01:31:06.566387 PDT | AverageDiscountedReturn    6.42231
+2017-07-03 01:31:06.566504 PDT | AverageReturn             10.9672
+2017-07-03 01:31:06.566619 PDT | ExplainedVariance          0.00127875
+2017-07-03 01:31:06.566740 PDT | NumTrajs                  61
+2017-07-03 01:31:06.566856 PDT | Entropy                    5.67575
+2017-07-03 01:31:06.566969 PDT | Perplexity               291.708
+2017-07-03 01:31:06.567083 PDT | StdReturn                  7.76914
+2017-07-03 01:31:06.567198 PDT | MaxReturn                 33
+2017-07-03 01:31:06.567316 PDT | MinReturn                  0
+2017-07-03 01:31:06.567429 PDT | AveragePolicyStd           1
+2017-07-03 01:31:06.567546 PDT | Baseline Loss             10.3135
+2017-07-03 01:31:06.567660 PDT | LossBefore                 1.86265e-10
+2017-07-03 01:31:06.567777 PDT | LossAfter                 -0.0022687
+2017-07-03 01:31:06.567892 PDT | MeanKLBefore               0
+2017-07-03 01:31:06.568014 PDT | MeanKL                     0.00662613
+2017-07-03 01:31:06.568127 PDT | dLoss                      0.0022687
+2017-07-03 01:31:06.568239 PDT | Time                     116.324
+2017-07-03 01:31:06.568357 PDT | ItrTime                  116.324
+2017-07-03 01:31:06.568470 PDT | -----------------------  -------------
+python /home/fred/rllab/scripts/run_experiment_lite.py  --exp_name 'trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001'  --snapshot_mode 'gap'  --snapshot_gap '100'  --use_cloudpickle 'False'  --args_data 'gANjcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJNZXRob2RDYWxsCnEAKYFxAX1xAihYCAAAAF9fa3dhcmdzcQN9cQRYBgAAAF9fYXJnc3EFKGNybGxhYi5taXNjLmluc3RydW1lbnQKU3R1Yk9iamVjdApxBimBcQd9cQgoWAYAAABrd2FyZ3NxCX1xCihYDwAAAG1heF9wYXRoX2xlbmd0aHELTegDWAsAAABzYW1wbGVyX2Nsc3EMY3JsbGFiLm1pc2MuaW5zdHJ1bWVudApTdHViQ2xhc3MKcQ0pgXEOfXEPWAsAAABwcm94eV9jbGFzc3EQY3NhbmRib3gucm9ja3kudGYuc2FtcGxlcnMuYmF0Y2hfc2FtcGxlcgpCYXRjaFNhbXBsZXIKcRFzYlgLAAAAd2hvbGVfcGF0aHNxEohYDgAAAG9wdGltaXplcl9hcmdzcRN9cRRYCgAAAG51bV9zbGljZXNxFUsUc1gJAAAAc3RlcF9zaXplcRZHP4R64UeuFHtYCgAAAGJhdGNoX3NpemVxF00QJ1gFAAAAbl9pdHJxGEsBWBAAAABzdWJzYW1wbGVfZmFjdG9ycRlHP/AAAAAAAABYCAAAAGJhc2VsaW5lcRpoBimBcRt9cRwoaAl9cR0oWBUAAAB0cmFpbl9mZWF0dXJlX25ldHdvcmtxHohYEwAAAGhpZGRlbl9ub25saW5lYXJpdHlxH2N0ZW5zb3JmbG93LnB5dGhvbi5vcHMuZ2VuX25uX29wcwpyZWx1CnEgWAgAAABlbnZfc3BlY3EhY3JsbGFiLm1pc2MuaW5zdHJ1bWVudApTdHViQXR0cgpxIimBcSN9cSQoWAQAAABfb2JqcSVoBimBcSZ9cScoaAl9cShYCwAAAHdyYXBwZWRfZW52cSloBimBcSp9cSsoaAl9cSxYAwAAAGVudnEtaAYpgXEufXEvKGgJfXEwKFgMAAAAcmVjb3JkX3ZpZGVvcTGJWAoAAAByZWNvcmRfbG9ncTKJWAgAAABlbnZfbmFtZXEzWBMAAABCb3gzZFJlYWNoUGl4ZWwtdjExcTRYBwAAAGxvZ19kaXJxNVgNAAAAL3RtcC9neW1fdGVzdHE2dVgEAAAAYXJnc3E3KWgQY3JsbGFiLmVudnMuZ3ltX2VudgpHeW1FbnYKcTh1YnNoNyloEGNybGxhYi5lbnZzLm5vcm1hbGl6ZWRfZW52Ck5vcm1hbGl6ZWRFbnYKcTl1YnNoNyloEGNzYW5kYm94LnJvY2t5LnRmLmVudnMuYmFzZQpUZkVudgpxOnViWAoAAABfYXR0cl9uYW1lcTtYBAAAAHNwZWNxPHViaBhLMlgMAAAAaGlkZGVuX3NpemVzcT1LgEuAS0CHcT5YDwAAAGZlYXR1cmVfbmV0d29ya3E/aAYpgXFAfXFBKGgJfXFCKFgJAAAAY29udl9wYWRzcUMoWAQAAABTQU1FcURoRGhEaER0cUVYDAAAAGNvbnZfc3RyaWRlc3FGKEsDSwNLA0sCdHFHWBMAAABvdXRwdXRfbm9ubGluZWFyaXR5cUhOWAwAAABjb252X2ZpbHRlcnNxSShLQEtAS0BLIHRxSmgfaCBYCgAAAG91dHB1dF9kaW1xS2giKYFxTH1xTShoJWgiKYFxTn1xTyhoJWgjaDtYDAAAAGFjdGlvbl9zcGFjZXFQdWJoO1gIAAAAZmxhdF9kaW1xUXViaD1NAAGFcVJYEQAAAGNvbnZfZmlsdGVyX3NpemVzcVMoSwVLBYZxVEsDSwOGcVVLA0sDhnFWSwNLA4ZxV3RxWFgLAAAAaW5wdXRfc2hhcGVxWWgiKYFxWn1xWyhoJWgiKYFxXH1xXShoJWgjaDtYEQAAAG9ic2VydmF0aW9uX3NwYWNlcV51Ymg7WAUAAABzaGFwZXFfdWJYBAAAAG5hbWVxYFgVAAAAYmFzZWxpbmVfY29udl9uZXR3b3JrcWF1aDcpaBBjc2FuZGJveC5yb2NreS50Zi5jb3JlLm5ldHdvcmsKQ29udk5ldHdvcmsKcWJ1YlgHAAAAaW5pdF9scnFjRz9AYk3S8an8dWg3KWgQY3NhbmRib3gucm9ja3kudGYuYmFzZWxpbmVzLm5uX2Jhc2VsaW5lCk5OQmFzZWxpbmUKcWR1YlgGAAAAcG9saWN5cWVoBimBcWZ9cWcoaAl9cWgoaCFoI2hIY3RlbnNvcmZsb3cucHl0aG9uLm9wcy5tYXRoX29wcwp0YW5oCnFpaD1LgEuAS0CHcWpoP2gGKYFxa31xbChoCX1xbShoQyhoRGhEaERoRHRxbmhGKEsDSwNLA0sCdHFvaEhOaEkoS0BLQEtASyB0cXBoH2ggaEtoIimBcXF9cXIoaCVoIimBcXN9cXQoaCVoI2g7aFB1Ymg7aFF1Ymg9TQABhXF1aFMoSwVLBYZxdksDSwOGcXdLA0sDhnF4SwNLA4ZxeXRxemhZaCIpgXF7fXF8KGglaCIpgXF9fXF+KGglaCNoO2hedWJoO2hfdWJoYFgTAAAAcG9saWN5X2NvbnZfbmV0d29ya3F/dWg3KWgQaGJ1YmhgWBMAAABjb252X2ZlYXR1cmVfcG9saWN5cYB1aDcpaBBjc2FuZGJveC5yb2NreS50Zi5wb2xpY2llcy5nYXVzc2lhbl9jb252X2ZlYXR1cmVfcG9saWN5CkdhdXNzaWFuQ29udkZlYXR1cmVQb2xpY3kKcYF1YmgtaCZ1aDcpaBBjc2FuZGJveC5yb2NreS50Zi5hbGdvcy50cnBvClRSUE8KcYJ1YlgFAAAAdHJhaW5xgyl9cYR0cYV1Yi4='  --log_dir '/home/fred/rllab/data/local/trpo-box3d-pixel-v11-tf-test/trpo_box3d_pixel_v11_tf_test_2017_07_03_01_29_05_0001'  --seed '0'  --n_parallel '12'
+[32musing seed 0[0m
+2017-07-03 01:34:27.854108 PDT | Setting seed to 0
+2017-07-03 01:34:27.854109 PDT | Setting seed to 1
+2017-07-03 01:34:27.854130 PDT | Setting seed to 2
+2017-07-03 01:34:27.854135 PDT | Setting seed to 3
+2017-07-03 01:34:27.854668 PDT | Setting seed to 4
+2017-07-03 01:34:27.854698 PDT | Setting seed to 6
+2017-07-03 01:34:27.854680 PDT | Setting seed to 5
+2017-07-03 01:34:27.854726 PDT | Setting seed to 7
+2017-07-03 01:34:27.854733 PDT | Setting seed to 8
+2017-07-03 01:34:27.854759 PDT | Setting seed to 9
+2017-07-03 01:34:27.855281 PDT | Setting seed to 10
+2017-07-03 01:34:27.855300 PDT | Setting seed to 11
+2017-07-03 01:34:28.617719 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] observation space: Box(84, 84, 8)
+2017-07-03 01:34:28.617900 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] action space: Box(4,)
+2017-07-03 01:34:29.760378 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] Populating workers...
+[32musing seed 9[0m
+2017-07-03 01:34:30.419810 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.420101 PDT | action space: Box(4,)
+[32musing seed 2[0m
+2017-07-03 01:34:30.482574 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.482805 PDT | action space: Box(4,)
+[32musing seed 3[0m
+2017-07-03 01:34:30.506444 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.506703 PDT | action space: Box(4,)
+[32musing seed 5[0m
+2017-07-03 01:34:30.546366 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.546613 PDT | action space: Box(4,)
+[32musing seed 8[0m
+2017-07-03 01:34:30.571927 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.572259 PDT | action space: Box(4,)
+[32musing seed 4[0m
+2017-07-03 01:34:30.586861 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.587121 PDT | action space: Box(4,)
+[32musing seed 6[0m
+2017-07-03 01:34:30.620707 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.620933 PDT | action space: Box(4,)
+[32musing seed 10[0m
+2017-07-03 01:34:30.621682 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.621926 PDT | action space: Box(4,)
+[32musing seed 0[0m
+2017-07-03 01:34:30.644384 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.644646 PDT | action space: Box(4,)
+[32musing seed 7[0m
+2017-07-03 01:34:30.780348 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.788855 PDT | action space: Box(4,)
+[32musing seed 11[0m
+2017-07-03 01:34:30.793206 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.793503 PDT | action space: Box(4,)
+[32musing seed 1[0m
+2017-07-03 01:34:30.825626 PDT | observation space: Box(84, 84, 8)
+2017-07-03 01:34:30.825911 PDT | action space: Box(4,)
+2017-07-03 01:34:31.111098 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] Populated
+2017-07-03 01:34:31.143454 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Obtaining samples...
+Warning: No valid output stream.
+2017-07-03 01:35:21.773182 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Processing samples...
+2017-07-03 01:35:24.242275 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | fitting baseline...
+2017-07-03 01:35:43.202319 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | fitted
+2017-07-03 01:35:43.202717 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Logging diagnostics...
+2017-07-03 01:35:43.203269 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Last baseline loss: 4.175492763519287
+2017-07-03 01:35:43.203374 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Optimizing policy...
+2017-07-03 01:35:43.203513 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Computing loss before
+2017-07-03 01:35:44.642059 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Computing KL before
+2017-07-03 01:35:46.057559 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Optimizing
+2017-07-03 01:35:46.060231 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Start CG optimization: #parameters: 164908, #inputs: 12200, #subsample_inputs: 12200
+2017-07-03 01:35:46.060444 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | computing loss before
+2017-07-03 01:35:47.451050 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | performing update
+2017-07-03 01:35:47.451284 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | computing gradient
+2017-07-03 01:35:49.545463 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | gradient computed
+2017-07-03 01:35:49.545649 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | computing descent direction
+Timer unit: 1e-06 s
+
+Total time: 28.7053 s
+File: /home/fred/rllab/rllab/misc/krylov.py
+Function: cg at line 23
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+    23                                           @do_profile(follow=[])
+    24                                           def cg(f_Ax, b, cg_iters=10, callback=None, verbose=False, residual_tol=1e-10):
+    25                                               """
+    26                                               Demmel p 312
+    27                                               """
+    28         1           42     42.0      0.0      p = b.copy()
+    29         1           36     36.0      0.0      r = b.copy()
+    30         1           57     57.0      0.0      x = np.zeros_like(b)
+    31         1           34     34.0      0.0      rdotr = r.dot(r)
+    32                                           
+    33         1            1      1.0      0.0      fmtstr = "%10i %10.3g %10.3g"
+    34         1            1      1.0      0.0      titlestr = "%10s %10s %10s"
+    35         1            0      0.0      0.0      if verbose: print(titlestr % ("iter", "residual norm", "soln norm"))
+    36                                           
+    37        11            8      0.7      0.0      for i in range(cg_iters):
+    38        10            6      0.6      0.0          if callback is not None:
+    39                                                       callback(x)
+    40        10            4      0.4      0.0          if verbose: print(fmtstr % (i, rdotr, np.linalg.norm(x)))
+    41        10     28701621 2870162.1    100.0          z = f_Ax(p)
+    42        10          389     38.9      0.0          v = rdotr / p.dot(z)
+    43        10         1139    113.9      0.0          x += v * p
+    44        10          842     84.2      0.0          r -= v * z
+    45        10          287     28.7      0.0          newrdotr = r.dot(r)
+    46        10            8      0.8      0.0          mu = newrdotr / rdotr
+    47        10          725     72.5      0.0          p = r + mu * p
+    48                                           
+    49        10            5      0.5      0.0          rdotr = newrdotr
+    50        10           59      5.9      0.0          if rdotr < residual_tol:
+    51                                                       break
+    52                                           
+    53         1            0      0.0      0.0      if callback is not None:
+    54                                                   callback(x)
+    55         1            1      1.0      0.0      if verbose: print(fmtstr % (i + 1, rdotr, np.linalg.norm(x)))  # pylint: disable=W0631
+    56         1            1      1.0      0.0      return x
+
+2017-07-03 01:36:21.010429 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | descent direction computed
+2017-07-03 01:36:22.523510 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | backtrack iters: 0
+2017-07-03 01:36:22.523735 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | computing loss after
+2017-07-03 01:36:22.684328 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | optimization finished
+Timer unit: 1e-06 s
+
+Total time: 3.48796 s
+File: /home/fred/rllab/sandbox/rocky/tf/optimizers/conjugate_gradient_optimizer.py
+Function: optimize at line 251
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+   251                                               @do_profile(follow=[])
+   252                                               def optimize(self, inputs, extra_inputs=None, subsample_grouped_inputs=None):
+   253         1         2409   2409.0      0.1          prev_param = np.copy(self._target.get_param_values(trainable=True))
+   254         1            3      3.0      0.0          inputs = tuple(inputs)
+   255         1            1      1.0      0.0          if extra_inputs is None:
+   256         1            1      1.0      0.0              extra_inputs = tuple()
+   257                                           
+   258         1            2      2.0      0.0          if self._subsample_factor < 1:
+   259                                                       if subsample_grouped_inputs is None:
+   260                                                           subsample_grouped_inputs = [inputs]
+   261                                                       subsample_inputs = tuple()
+   262                                                       for inputs_grouped in subsample_grouped_inputs:
+   263                                                           n_samples = len(inputs_grouped[0])
+   264                                                           inds = np.random.choice(
+   265                                                               n_samples, int(n_samples * self._subsample_factor), replace=False)
+   266                                                           subsample_inputs += tuple([x[inds] for x in inputs_grouped])
+   267                                                   else:
+   268         1            1      1.0      0.0              subsample_inputs = inputs
+   269                                           
+   270         1          222    222.0      0.0          logger.log("Start CG optimization: #parameters: %d, #inputs: %d, #subsample_inputs: %d"%(len(prev_param),len(inputs[0]), len(subsample_inputs[0])))
+   271                                           
+   272         1          149    149.0      0.0          logger.log("computing loss before")
+   273         1      1390439 1390439.0     39.9          loss_before = sliced_fun(self._opt_fun["f_loss"], self._num_slices)(inputs, extra_inputs)
+   274         1          242    242.0      0.0          logger.log("performing update")
+   275                                           
+   276         1       162424 162424.0      4.7          logger.log("computing gradient")
+   277         1      1931731 1931731.0     55.4          flat_g = sliced_fun(self._opt_fun["f_grad"], self._num_slices)(inputs, extra_inputs)
+   278         1          196    196.0      0.0          logger.log("gradient computed")
+   279                                           
+   280         1          128    128.0      0.0          logger.log("computing descent direction")
+   281         1           16     16.0      0.0          Hx = self._hvp_approach.build_eval(subsample_inputs + extra_inputs)
+   282                                           
+   283                                                   descent_direction = krylov.cg(Hx, flat_g, cg_iters=self._cg_iters)
+   284                                           
+   285                                                   initial_step_size = np.sqrt(
+   286                                                       2.0 * self._max_constraint_val * (1. / (descent_direction.dot(Hx(descent_direction)) + 1e-8))
+   287                                                   )
+   288                                                   if np.isnan(initial_step_size):
+   289                                                       initial_step_size = 1.
+   290                                                   flat_descent_step = initial_step_size * descent_direction
+   291                                           
+   292                                                   logger.log("descent direction computed")
+   293                                           
+   294                                                   n_iter = 0
+   295                                                   for n_iter, ratio in enumerate(self._backtrack_ratio ** np.arange(self._max_backtracks)):
+   296                                                       cur_step = ratio * flat_descent_step
+   297                                                       cur_param = prev_param - cur_step
+   298                                                       self._target.set_param_values(cur_param, trainable=True)
+   299                                                       loss, constraint_val = sliced_fun(self._opt_fun["f_loss_constraint"], self._num_slices)(inputs,
+   300                                                                                                                                               extra_inputs)
+   301                                                       if self._debug_nan and np.isnan(constraint_val):
+   302                                                           import ipdb;
+   303                                                           ipdb.set_trace()
+   304                                                       if loss < loss_before and constraint_val <= self._max_constraint_val:
+   305                                                           break
+   306                                                   if (np.isnan(loss) or np.isnan(constraint_val) or loss >= loss_before or constraint_val >=
+   307                                                       self._max_constraint_val) and not self._accept_violation:
+   308                                                       logger.log("Line search condition violated. Rejecting the step!")
+   309                                                       if np.isnan(loss):
+   310                                                           logger.log("Violated because loss is NaN")
+   311                                                       if np.isnan(constraint_val):
+   312                                                           logger.log("Violated because constraint %s is NaN" % self._constraint_name)
+   313                                                       if loss >= loss_before:
+   314                                                           logger.log("Violated because loss not improving")
+   315                                                       if constraint_val >= self._max_constraint_val:
+   316                                                           logger.log("Violated because constraint %s is violated" % self._constraint_name)
+   317                                                       self._target.set_param_values(prev_param, trainable=True)
+   318                                                   logger.log("backtrack iters: %d" % n_iter)
+   319                                                   logger.log("computing loss after")
+   320                                                   logger.log("optimization finished")
+
+2017-07-03 01:36:22.738172 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Computing KL after
+2017-07-03 01:36:24.145670 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Computing loss after
+2017-07-03 01:36:25.581510 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Saving snapshot...
+2017-07-03 01:36:25.639150 PDT | [trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001] itr #0 | Saved
+2017-07-03 01:36:25.640272 PDT | -----------------------  -------------
+2017-07-03 01:36:25.640414 PDT | Iteration                  0
+2017-07-03 01:36:25.640535 PDT | AverageDiscountedReturn    2.43122
+2017-07-03 01:36:25.640653 PDT | AverageReturn              4
+2017-07-03 01:36:25.640768 PDT | ExplainedVariance          0.000370443
+2017-07-03 01:36:25.640883 PDT | NumTrajs                  61
+2017-07-03 01:36:25.640997 PDT | Entropy                    5.67575
+2017-07-03 01:36:25.641111 PDT | Perplexity               291.708
+2017-07-03 01:36:25.641225 PDT | StdReturn                  6.39672
+2017-07-03 01:36:25.641339 PDT | MaxReturn                 44
+2017-07-03 01:36:25.641453 PDT | MinReturn                  0
+2017-07-03 01:36:25.641567 PDT | AveragePolicyStd           1
+2017-07-03 01:36:25.641684 PDT | Baseline Loss              4.17549
+2017-07-03 01:36:25.641798 PDT | LossBefore                 6.33299e-09
+2017-07-03 01:36:25.641912 PDT | LossAfter                 -0.00769237
+2017-07-03 01:36:25.642026 PDT | MeanKLBefore               0
+2017-07-03 01:36:25.642138 PDT | MeanKL                     0.00594496
+2017-07-03 01:36:25.642251 PDT | dLoss                      0.00769238
+2017-07-03 01:36:25.642364 PDT | Time                     114.496
+2017-07-03 01:36:25.642477 PDT | ItrTime                  114.496
+2017-07-03 01:36:25.642590 PDT | -----------------------  -------------
+python /home/fred/rllab/scripts/run_experiment_lite.py  --use_cloudpickle 'False'  --seed '0'  --exp_name 'trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001'  --snapshot_mode 'gap'  --snapshot_gap '100'  --log_dir '/home/fred/rllab/data/local/trpo-box3d-pixel-v11-tf-test/trpo_box3d_pixel_v11_tf_test_2017_07_03_01_34_26_0001'  --args_data 'gANjcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJNZXRob2RDYWxsCnEAKYFxAX1xAihYCAAAAF9fa3dhcmdzcQN9cQRYBgAAAF9fYXJnc3EFKGNybGxhYi5taXNjLmluc3RydW1lbnQKU3R1Yk9iamVjdApxBimBcQd9cQgoWAsAAABwcm94eV9jbGFzc3EJY3NhbmRib3gucm9ja3kudGYuYWxnb3MudHJwbwpUUlBPCnEKWAQAAABhcmdzcQspWAYAAABrd2FyZ3NxDH1xDShYBQAAAG5faXRycQ5LAVgPAAAAbWF4X3BhdGhfbGVuZ3RocQ9N6ANYCwAAAHNhbXBsZXJfY2xzcRBjcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJDbGFzcwpxESmBcRJ9cRNoCWNzYW5kYm94LnJvY2t5LnRmLnNhbXBsZXJzLmJhdGNoX3NhbXBsZXIKQmF0Y2hTYW1wbGVyCnEUc2JYCAAAAGJhc2VsaW5lcRVoBimBcRZ9cRcoaAljc2FuZGJveC5yb2NreS50Zi5iYXNlbGluZXMubm5fYmFzZWxpbmUKTk5CYXNlbGluZQpxGGgLKWgMfXEZKGgOSzJYDwAAAGZlYXR1cmVfbmV0d29ya3EaaAYpgXEbfXEcKGgJY3NhbmRib3gucm9ja3kudGYuY29yZS5uZXR3b3JrCkNvbnZOZXR3b3JrCnEdaAspaAx9cR4oWBEAAABjb252X2ZpbHRlcl9zaXplc3EfKEsFSwWGcSBLA0sDhnEhSwNLA4ZxIksDSwOGcSN0cSRYDAAAAGNvbnZfZmlsdGVyc3ElKEtAS0BLQEsgdHEmWAQAAABuYW1lcSdYFQAAAGJhc2VsaW5lX2NvbnZfbmV0d29ya3EoWBMAAABoaWRkZW5fbm9ubGluZWFyaXR5cSljdGVuc29yZmxvdy5weXRob24ub3BzLmdlbl9ubl9vcHMKcmVsdQpxKlgTAAAAb3V0cHV0X25vbmxpbmVhcml0eXErTlgMAAAAaGlkZGVuX3NpemVzcSxNAAGFcS1YCwAAAGlucHV0X3NoYXBlcS5jcmxsYWIubWlzYy5pbnN0cnVtZW50ClN0dWJBdHRyCnEvKYFxMH1xMShYCgAAAF9hdHRyX25hbWVxMlgFAAAAc2hhcGVxM1gEAAAAX29ianE0aC8pgXE1fXE2KGgyWBEAAABvYnNlcnZhdGlvbl9zcGFjZXE3aDRoLymBcTh9cTkoaDJYBAAAAHNwZWNxOmg0aAYpgXE7fXE8KGgJY3NhbmRib3gucm9ja3kudGYuZW52cy5iYXNlClRmRW52CnE9aAspaAx9cT5YCwAAAHdyYXBwZWRfZW52cT9oBimBcUB9cUEoaAljcmxsYWIuZW52cy5ub3JtYWxpemVkX2VudgpOb3JtYWxpemVkRW52CnFCaAspaAx9cUNYAwAAAGVudnFEaAYpgXFFfXFGKGgJY3JsbGFiLmVudnMuZ3ltX2VudgpHeW1FbnYKcUdoCyloDH1xSChYBwAAAGxvZ19kaXJxSVgNAAAAL3RtcC9neW1fdGVzdHFKWAgAAABlbnZfbmFtZXFLWBMAAABCb3gzZFJlYWNoUGl4ZWwtdjExcUxYCgAAAHJlY29yZF9sb2dxTYlYDAAAAHJlY29yZF92aWRlb3FOiXV1YnN1YnN1YnVidWJ1YlgMAAAAY29udl9zdHJpZGVzcU8oSwNLA0sDSwJ0cVBYCgAAAG91dHB1dF9kaW1xUWgvKYFxUn1xUyhoMlgIAAAAZmxhdF9kaW1xVGg0aC8pgXFVfXFWKGgyWAwAAABhY3Rpb25fc3BhY2VxV2g0aDh1YnViWAkAAABjb252X3BhZHNxWChYBAAAAFNBTUVxWWhZaFloWXRxWnV1YlgVAAAAdHJhaW5fZmVhdHVyZV9uZXR3b3JrcVuIaCxLgEuAS0CHcVxYCAAAAGVudl9zcGVjcV1oOFgHAAAAaW5pdF9scnFeRz9AYk3S8an8aCloKnV1YlgKAAAAYmF0Y2hfc2l6ZXFfTRAnWBAAAABzdWJzYW1wbGVfZmFjdG9ycWBHP/AAAAAAAABYCQAAAHN0ZXBfc2l6ZXFhRz+EeuFHrhR7WA4AAABvcHRpbWl6ZXJfYXJnc3FifXFjWAoAAABudW1fc2xpY2VzcWRLFHNYCwAAAHdob2xlX3BhdGhzcWWIWAYAAABwb2xpY3lxZmgGKYFxZ31xaChoCWNzYW5kYm94LnJvY2t5LnRmLnBvbGljaWVzLmdhdXNzaWFuX2NvbnZfZmVhdHVyZV9wb2xpY3kKR2F1c3NpYW5Db252RmVhdHVyZVBvbGljeQpxaWgLKWgMfXFqKGgaaAYpgXFrfXFsKGgJaB1oCyloDH1xbShoHyhLBUsFhnFuSwNLA4Zxb0sDSwOGcXBLA0sDhnFxdHFyaCUoS0BLQEtASyB0cXNoJ1gTAAAAcG9saWN5X2NvbnZfbmV0d29ya3F0aCloKmgrTmgsTQABhXF1aC5oLymBcXZ9cXcoaDJoM2g0aC8pgXF4fXF5KGgyaDdoNGg4dWJ1YmhPKEsDSwNLA0sCdHF6aFFoLymBcXt9cXwoaDJoVGg0aC8pgXF9fXF+KGgyaFdoNGg4dWJ1YmhYKGhZaFloWWhZdHF/dXViaCdYEwAAAGNvbnZfZmVhdHVyZV9wb2xpY3lxgGhdaDhoK2N0ZW5zb3JmbG93LnB5dGhvbi5vcHMubWF0aF9vcHMKdGFuaApxgWgsS4BLgEtAh3GCdXViaERoO3V1YlgFAAAAdHJhaW5xgyl9cYR0cYV1Yi4='  --n_parallel '12'
